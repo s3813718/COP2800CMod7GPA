@@ -1,6 +1,6 @@
 // SpeciesCounter.java
-//
-// 
+// Alejandro Cueto
+// 6/24/26
 // Encapsulates species data and related operations
 
 public class SpeciesCounter {
