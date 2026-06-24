@@ -5,6 +5,7 @@
 
 public class PalmerPenguinsM7 {
     public static void main(String[] args) {
+
         // Create an instance of SpeciesCounter
         SpeciesCounter counter = new SpeciesCounter();
 
